@@ -6,7 +6,7 @@
 	Explination: "cd <insert path to folder here>"
 	Example: cd /Users/rthompson1000/Desktop/OperatingSystems/project1
 
-3. Type "./[program you want to run]>" for each program
+3. Type "./[program you want to run]" for each program
 	Example: ./pre
 4. Follow the input instructions of the project
 
